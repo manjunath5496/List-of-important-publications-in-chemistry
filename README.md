@@ -32,14 +32,20 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(26).pdf"><b>The synthesis of ammonia from its elements</b></a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(27).rar"><b>The Architecture of Molecules</b></a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(27).pdf"><b>The Architecture of Molecules</b></a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(28).pdf"><b>Development of the theory of electrolytic dissociation</b></a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(29).pdf"><b>The development of the chemical high pressure method during the establishment of the new ammonia industry</b></a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(30).pdf"><b>On haemin and the relationships between haemin and chlorophyll</b></a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(31).pdf"><b>The transuranium elements: present status</b></a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(32).pdf"><b>The origins of the conceptions of isotopes</b></a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(33).pdf"><b>Methods to determine the electrical and geometrical structure of molecules</b></a></li>
 
 
 
