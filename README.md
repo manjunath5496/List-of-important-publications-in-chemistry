@@ -22,5 +22,11 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(21).pdf"><b>Supramolecular Chemistry – Scope and Perspectives; Molecules – Supermolecules – Molecular Devices</b></a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(22).pdf"><b>Density-Functional Theory of Atoms and Molecules</b></a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(23).rar"><b>The Practice of Medicinal Chemistry</b></a></li>
+
+
+
 
 </ul>
