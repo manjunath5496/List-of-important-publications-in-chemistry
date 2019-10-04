@@ -26,6 +26,28 @@
 
 <li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(23).rar"><b>The Practice of Medicinal Chemistry</b></a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(24).pdf"><b>The Chemical History of a Candle</b></a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(25).pdf"><b>The chemistry of insulin</b></a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(26).pdf"><b>The synthesis of ammonia from its elements</b></a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(27).rar"><b>The Architecture of Molecules</b></a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(28).pdf"><b>Development of the theory of electrolytic dissociation</b></a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/List-of-important-publications-in-chemistry/blob/master/cte(29).pdf"><b>The development of the chemical high pressure method during the establishment of the new ammonia industry</b></a></li>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
